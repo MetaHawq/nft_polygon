@@ -1,15 +1,11 @@
-# Basic Sample Hardhat Project
+# NFT on Polygon
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+## Software Tools
 
-Try running some of the following tasks:
+[Hardhat] (https://hardhat.org/ "Hardhat")
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+[Ethers] (https://docs.ethers.io/v5// "Ethers.js")
+
+[Metamask] (https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en "Metamask Wallet")
+
+![:))] (https://www.google.com/search?q=emojis&rlz=1C5CHFA_enUS984US984&sxsrf=APq-WBulISTm5nYJCQb-lYrYa2vN3i6axQ:1644275255916&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjGnqrU2u71AhVYGjQIHbSkATwQ_AUoAXoECAIQAw&biw=1437&bih=739&dpr=2#imgrc=kcUCiq7JGFUk0M)
